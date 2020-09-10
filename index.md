@@ -9,6 +9,7 @@ You can explore some pages of my website, namely:
 * [About](https://garaquest.github.io/about)
 * [Project](https://garaquest.github.io/project)
 * [Product](https://garaquest.github.io/product)
+* [Service](https://garaquest.github.io/service)
 * [Contact](https://garaquest.github.io/contact)
 
 ## Source
