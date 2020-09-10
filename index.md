@@ -10,6 +10,7 @@ Hello, call me Gara or Grow. This is my own experimental website powered by gith
 
 You can explore some pages of my website, namely:
 * [About](https://garaquest.github.io/about)
+* [Portfolio](https://garaquest.github.io/portfolio)
 
 ## Project
 
