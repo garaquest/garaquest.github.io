@@ -8,9 +8,10 @@ Hello, call me Gara or Grow. I am a fullstack developer.
 You can explore some pages of my website, namely:
 * [About](https://garaquest.github.io/about)
 * [Portfolio](https://garaquest.github.io/portfolio)
+* [Project](https://garaquest.github.io/project)
 * [Contact](https://garaquest.github.io/contact)
 
-## Project
+## Source
 
-I put my projects on github. This is my github:
+I put my project's source on github. This is my github:
  * [https://github.com/garaquest](https://github.com/garaquest)
