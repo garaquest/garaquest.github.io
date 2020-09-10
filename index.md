@@ -15,3 +15,9 @@ I put some open sources or free projects on github. This is my github:
 
 * [Atom Text Editor for developing application. It's FREE!](https://atom.io)
 * [Inkscape for designing or illustrating. It's FREE!](https://Inkscape.org)
+
+# Programming languages that i explore
+
+* [PHP: PHP Hypertext Preprocessor. This language is a good partner to help you building website. Very simple and to the point.](https://php.org)
+* [Python. For those who love managing data or statistic, this is a nice programming language.](https://python.org)
+* [Javascript. If you want to make an interactive website. Try this!](https://javascript.com)
