@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Intro
 
 Hello, call me Gara or Grow. This is my own experimental website powered by github and jekyll. It's FREE!
