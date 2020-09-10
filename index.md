@@ -15,4 +15,4 @@ You can explore some pages of my website, namely:
 ## Source
 
 I put my project's source on github. This is my github:
- * [https://github.com/garaquest](https://github.com/garaquest)
+ * [https://github.com/garaquest](https://github.com/garaquest){:target="_blank"}
