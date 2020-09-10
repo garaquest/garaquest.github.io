@@ -7,8 +7,8 @@ Hello, call me Gara or Grow. I am a fullstack developer.
 
 You can explore some pages of my website, namely:
 * [About](https://garaquest.github.io/about)
-* [Portfolio](https://garaquest.github.io/portfolio)
 * [Project](https://garaquest.github.io/project)
+* [Product](https://garaquest.github.io/product)
 * [Contact](https://garaquest.github.io/contact)
 
 ## Source
