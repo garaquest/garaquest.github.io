@@ -8,4 +8,5 @@ I love coding, simple designing, trading, playing music, and doing some experime
 
 # Project
 
-I put some open source or free project on github. This is my github -> https://github.com/garaquest
+I put some open source or free project on github. This is my github:
+ * [https://github.com/garaquest](https://github.com/garaquest)
