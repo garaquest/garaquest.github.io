@@ -15,3 +15,7 @@ You can explore some pages of my website, namely:
 
 I put some open sources or free projects on github. This is my github:
  * [https://github.com/garaquest](https://github.com/garaquest)
+
+# Contact
+
+Contact me at: garaquest@gmail.com
