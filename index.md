@@ -6,6 +6,11 @@ layout: default
 
 Hello, call me Gara or Grow. This is my own experimental website powered by github and jekyll. It's FREE!
 
+# Page
+
+You can explore some pages of my website, namely:
+* [About](https://garaquest.github.io/about)
+
 # Hobbies
 
 I love coding, simple designing, trading, playing music, and doing some experimental activities.
