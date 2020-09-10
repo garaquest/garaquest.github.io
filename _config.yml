@@ -2,5 +2,4 @@ theme: jekyll-theme-cayman
 title: Gara Quest
 description: A Full Stack Developer
 show_downloads: false
-google_analytics:
 url: about
