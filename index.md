@@ -18,6 +18,7 @@ I put some open sources or free projects on github. This is my github:
 
 # Programming languages that i explore
 
-* [PHP: PHP Hypertext Preprocessor] This language is a good partner to help you building website. Very simple and to the point.(https://php.org)
+* [PHP: PHP Hypertext Preprocessor](https://php.org)
+  This language is a good partner to help you building website. Very simple and to the point.
 * [Python. For those who love managing data or statistic, this is a nice programming language.](https://python.org)
 * [Javascript. If you want to make an interactive website. Try this!](https://javascript.com)
