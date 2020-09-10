@@ -13,7 +13,7 @@ You can explore some pages of my website, namely:
 
 ## Project
 
-I put some open sources or free projects on github. This is my github:
+I put my projects on github. This is my github:
  * [https://github.com/garaquest](https://github.com/garaquest)
 
 ## Contact
