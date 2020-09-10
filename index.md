@@ -14,4 +14,4 @@ I put some open sources or free projects on github. This is my github:
 # My Tools
 
 * [Atom Text Editor for developing application. It's FREE!](https://atom.io)
-* [Inkscape for designing or illustrating](https://Inkscape.org)
+* [Inkscape for designing or illustrating. It's FREE!](https://Inkscape.org)
